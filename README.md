@@ -16,6 +16,10 @@ Service-based version of [cdzombak/qs-public-dropbox-link](https://github.com/cd
 
 Generates a QR code from the selected text.
 
+### Open URL
+
+Asks for a URL and opens it in the system default application.
+
 ## Requirements
 
 I currently use these on OS X 10.10. They probably work on other similar OS X versions.
