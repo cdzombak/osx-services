@@ -30,6 +30,10 @@ Answer automated phone calls with this to get yourself removed from autodialer l
 
 Scales the selected images by a given amount (default 50%) and puts the results on the Desktop.
 
+### Send to OmniFocus
+
+Mail.app service for [rentzsch/OmniFocus Selected Mail Messages.applescript](https://gist.github.com/rentzsch/05d155147e894bd2730f).
+
 ## Requirements
 
 I currently use these on OS X 10.10. They probably work on other similar OS X versions.
