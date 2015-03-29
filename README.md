@@ -26,6 +26,10 @@ Pauses iTunes and Spotify if they’re running, then ensure volume isn’t muted
 
 Answer automated phone calls with this to get yourself removed from autodialer lists.
 
+### Scale Images
+
+Scales the selected images by a given amount (default 50%) and puts the results on the Desktop.
+
 ## Requirements
 
 I currently use these on OS X 10.10. They probably work on other similar OS X versions.
