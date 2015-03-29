@@ -20,6 +20,12 @@ Generates a QR code from the selected text.
 
 Asks for a URL and opens it in the system default application.
 
+### Play Fax Sound
+
+Pauses iTunes and Spotify if they’re running, then ensure volume isn’t muted and plays [this fax sound](fax_call_loop.wav).
+
+Answer automated phone calls with this to get yourself removed from autodialer lists.
+
 ## Requirements
 
 I currently use these on OS X 10.10. They probably work on other similar OS X versions.
