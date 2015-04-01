@@ -16,6 +16,10 @@ Service-based version of [cdzombak/qs-public-dropbox-link](https://github.com/cd
 
 Generates a QR code from the selected text.
 
+### Open Selected Text As URL
+
+Opens the selected text as a URL in the system default application.
+
 ### Open URL
 
 Asks for a URL and opens it in the system default application.
