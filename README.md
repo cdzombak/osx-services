@@ -4,6 +4,10 @@ Custom OS X services that make my life easier.
 
 ## Services
 
+### Archive nvALT Note
+
+Moves the selected note in nvALT to the `Archive` subfolder in your notes directory.
+
 ### Copy Message Link
 
 Copies a link to the currently-selected message in Mail.app.
