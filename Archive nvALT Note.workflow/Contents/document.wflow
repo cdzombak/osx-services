@@ -51,7 +51,9 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>on run {input, parameters}		tell application "System Events"		tell menu "Note" of menu bar item "Note" of menu bar 1 of process "nvALT"			click menu item "Show in Finder"		end tell	end tell		delay 1		tell application "Finder"		activate		move selection to folder "Archive" of container of item 1 of (get selection)		tell application "System Events"			keystroke "w" using command down		end tell	end tell		tell application "nvALT" to activate	end run</string>
+					<string>on run {input, parameters}		tell application "System Events"		tell menu "Note" of menu bar item "Note" of menu bar 1 of process "nvALT"			click menu item "Show in Finder"		end tell	end tell		delay 1		tell application "Finder"		activate		move selection to folder "Archive" of container of item 1 of (get selection)		tell application "System Events"			keystroke "w" using command down		end tell	end tell
+	
+	delay 1		tell application "nvALT" to activate	end run</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
