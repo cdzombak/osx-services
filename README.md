@@ -20,6 +20,10 @@ Service-based version of [cdzombak/qs-public-dropbox-link](https://github.com/cd
 
 Generates a QR code from the selected text.
 
+### OmniFocus Quick Open
+
+Opens OmniFocus’s “Quick Open” dialog. Work best when run via FastScripts shortcut, because OS X doesn’t seem to want to grant ‘Automator Runner.app’ privileges for assistive access.
+
 ### Open Selected Text As URL
 
 Opens the selected text as a URL in the system default application.
