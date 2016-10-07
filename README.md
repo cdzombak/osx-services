@@ -1,8 +1,8 @@
 # osx-services
 
-Custom OS X services that make my life easier.
+Custom OS X services (and Applescripts) that make my life easier. Designed to be triggered via OS X's Services or via FastScripts.
 
-## Services
+## The Scripts/Services
 
 ### Archive nvALT Note
 
@@ -19,6 +19,12 @@ Service-based version of [cdzombak/qs-public-dropbox-link](https://github.com/cd
 ### Generate QR Code
 
 Generates a QR code from the selected text.
+
+### Eject External Disks
+
+Ejects the external USB disks typically attached to my laptop while at my desk at home. This can be triggered via `Shift-Control-U` to quickly unmount when I want my laptop to be portable again.
+
+It opens `/Volumes` in Finder so I can verify when the disks have been unmounted as expected.
 
 ### OmniFocus Quick Open
 
